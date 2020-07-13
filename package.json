@@ -1,0 +1,12 @@
+{
+  "name": "tftl_test",
+  "version": "1.0.0",
+  "description": "Test assignment for The First The Last",
+  "main": "index.js",
+  "repository": "https://github.com/obeycats18/tftl_test",
+  "author": "kapishdima@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
